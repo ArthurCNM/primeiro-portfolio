@@ -92,7 +92,7 @@ body{
 
 .apresentacao__imagem{
     width: 50%;
-    border: 3px solid var(--cor-terciaria);
+    box-shadow: 8px 8px 12px var(--cor-terciaria);
     border-radius: 8px;
 }
 
